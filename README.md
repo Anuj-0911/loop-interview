@@ -1,3 +1,6 @@
+<img width="1722" height="1108" alt="Screenshot 2026-11-18 at 4 38 55 PM" src="https://github.com/user-attachments/assets/33aeacd5-5417-41da-8151-f824013e98b1" />
+
+
 We’re building a generic slot booking platform.
 Think of something similar to:
 Doctor appointments (doctor, patient)
