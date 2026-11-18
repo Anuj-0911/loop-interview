@@ -1,0 +1,6 @@
+/bin/
+/coverage.out
+.env
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
